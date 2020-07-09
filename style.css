@@ -116,3 +116,19 @@ main.open {
     width:350px;
 
 }
+
+section {
+    width:500px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+.gallery-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top:40px;
+}
+
+.gallery-main {
+    margin-top:50px;
+}
